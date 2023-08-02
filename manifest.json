@@ -1,0 +1,22 @@
+{
+    "name": "Phone360",
+    "short _name": "Phone360",
+    "start_url":"index.html",
+    "display": "standalone",
+    "theme_color": "#f1f1f1",
+    "background_color": "#222",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "src": "image.png",
+            "type": "image/png",
+            "sizes":"144X144"
+        },
+        {
+            "src": "image2.png",
+            "type": "image/png",
+            "sizes":"512x512",
+            "purpose":"maskable"
+        }
+    ]
+}
